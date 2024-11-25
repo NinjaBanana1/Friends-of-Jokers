@@ -17,3 +17,4 @@ VERY WIP
 | Art | Joker | Rarity | Description | Credits |
   | :---: | :---: | :---: | :---: | :---: |
     | :---: | TEST | Common | idk | :---: |
+</details>
