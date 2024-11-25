@@ -1,20 +1,111 @@
-# Friends-of-Jokers-WIP-
+# Friends of Jokers (WIP)
 
-Test test
+Balatro mod that adds 24 new Jokers based off of the crossovers from the Friends of Jimbo collabs.
 
-I have nver used github until now lol
+WORK IN PROGRESS
 
-VERY WIP
+To-Do List:
+- Code for all Jokers
+- Art for all Jokers
 
 ## Installation
-- There's nothing here.
+- Coming Soon (tm)
 
-## List of Jokers
+## List of Jokers 
+### Set 1
 <details>
-  <summary>Open List</summary>
-</details>
+  <summary>The Witcher</summary>
+  
 <br>
+
 | Art | Joker | Rarity | Description | Credits |
   | :---: | :---: | :---: | :---: | :---: |
-    | :---: | TEST | Common | idk | :---: |
+  |  |  | Common |  |  |
+  |  |  | Uncommon |  |  |
+  |  |  | Rare |  |  |
+</details>
+
+<details>
+  <summary>Among Us</summary>
+  
+<br>
+
+| Art | Joker | Rarity | Description | Credits |
+  | :---: | :---: | :---: | :---: | :---: |
+  |  |  | Common |  |  |
+  |  |  | Uncommon |  |  |
+  |  |  | Rare |  |  |
+</details>
+
+<details>
+  <summary>Vampire Survivors</summary>
+  
+<br>
+
+| Art | Joker | Rarity | Description | Credits |
+  | :---: | :---: | :---: | :---: | :---: |
+  |  |  | Common |  |  |
+  |  |  | Uncommon |  |  |
+  |  |  | Rare |  |  |
+</details>
+
+<details>
+  <summary>Dave the Diver</summary>
+  
+<br>
+
+| Art | Joker | Rarity | Description | Credits |
+  | :---: | :---: | :---: | :---: | :---: |
+  |  |  | Common |  |  |
+  |  |  | Uncommon |  |  |
+  |  |  | Rare |  |  |
+</details>
+
+### Set 2
+<details>
+  <summary>Cyberpunk 2077</summary>
+  
+<br>
+
+| Art | Joker | Rarity | Description | Credits |
+  | :---: | :---: | :---: | :---: | :---: |
+  |  |  | Common |  |  |
+  |  |  | Uncommon |  |  |
+  |  |  | Rare |  |  |
+</details>
+
+<details>
+  <summary>The Binding of Isaac</summary>
+  
+<br>
+
+| Art | Joker | Rarity | Description | Credits |
+  | :---: | :---: | :---: | :---: | :---: |
+  |  |  | Common |  |  |
+  |  |  | Uncommon |  |  |
+  |  |  | Rare |  |  |
+</details>
+
+<details>
+  <summary>Slay the Spire</summary>
+  
+<br>
+
+| Art | Joker | Rarity | Description | Credits |
+  | :---: | :---: | :---: | :---: | :---: |
+  |  |  | Common |  |  |
+  |  |  | Uncommon |  |  |
+  |  |  | Rare |  |  |
+</details>
+
+<details>
+  <summary>Stardew Valley</summary>
+  
+<br>
+
+| Art | Joker | Rarity | Description | Credits |
+  | :---: | :---: | :---: | :---: | :---: |
+  |  |  | Common |  |  |
+  |  |  | Uncommon |  |  |
+  |  |  | Rare |  |  |
 </details>
