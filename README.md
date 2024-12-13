@@ -9,7 +9,7 @@ To-Do List:
 - Art for all Jokers
 
 ## Installation
-- Coming Soon (tm)
+- Coming Soon™️
 
 ## List of Jokers 
 ### Set 1
@@ -20,9 +20,9 @@ To-Do List:
 
 | Art | Joker | Rarity | Description | Credits |
   | :---: | :---: | :---: | :---: | :---: |
-  |  | Keira Mietz | Common |  -1 Consumable Slot, create a copy of The Fool when Blind is selected |  |
-  |  | King of Beggars | Uncommon | While in a Blind, earn $8 when a Consumable or Joker is sold |  |
-  |  | Casimir Bassi | Rare | When obtained, set money to $0 and gain +10 Chips for every $1 removed |  |
+  |  | Keira Mietz | Common |  -1 Consumable Slot, creates a copy of The Fool when Blind is selected | Code by NeonCube |
+  |  | King of Beggars | Uncommon | While in a Blind, earn $8 when a card is sold | Code by NeonCube |
+  |  | Casimir Bassi | Rare | When obtained, set money to $0 and gain +10 Chips for every $1 removed | Code by NeonCube |
 </details>
 
 <details>
