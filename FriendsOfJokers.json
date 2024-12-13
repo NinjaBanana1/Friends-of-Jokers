@@ -1,0 +1,12 @@
+{
+	"id": "friends_of_jokers",
+	"name": "Friends Of Jokers",
+	"display_name": "Friends Of Jokers",
+	"author": ["NinjaBanana", "Sbubby", "Miser", "NeonCube"],
+	"description": "",
+	"prefix": "foj",
+	"main_file": "FriendsOfJokers.lua",
+	"priority": 0,
+	"version": "1.0.0",
+	"dependencies": []
+}
