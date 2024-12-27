@@ -69,8 +69,8 @@ To-Do List:
 
 | Art | Joker | Rarity | Description | Credits |
   | :---: | :---: | :---: | :---: | :---: |
-  |  | Headhunter | Common | Playing a [Rank] destroys it and gives $3, rank changes every round |  |
-  |  | Ripperdoc | Uncommon | Played cards have a 1 in 2 chance to gain a random enhancement when scored |  |
+  |  | Ripperdoc | Common | Played cards have a 1 in 3 chance to gain a random enhancement when scored |  |
+  |  | Headhunter | Uncommon | X3 mult if a card has been destroyed this round |  |
   |  | Sandevistan Speedware | Rare | This Joker gains X1 mult for every consecutive non-Boss Blind skipped |  |
 </details>
 
