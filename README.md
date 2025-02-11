@@ -69,7 +69,7 @@ To-Do List:
 
 | Art | Joker | Rarity | Description | Credits |
   | :---: | :---: | :---: | :---: | :---: |
-  |  | Ripperdoc | Common | Played cards have a 1 in 3 chance to gain a random enhancement when scored |  |
+  |  | Viktor Vektor | Common | Played cards have a 1 in 3 chance to gain a random enhancement when scored |  |
   |  | Headhunter | Uncommon | X3 mult if a card has been destroyed this round |  |
   |  | Sandevistan Speedware | Rare | This Joker gains X1 mult for every consecutive non-Boss Blind skipped |  |
 </details>
@@ -119,8 +119,8 @@ To-Do List:
 
 | Art | Joker | Rarity | Description | Credits |
   | :---: | :---: | :---: | :---: | :---: |
-  |  | Follow-Up | Common | When at 0 discards, +1 discard after playing a hand |  |
-  |  | Hello World | Uncommon | Add Foil, Holographic, or Polychrome to a random card in your starting hand |  |
+  |  | Claw | Common | This Joker gains +5 Mult for every hand played this round (resets every round) |  |
+  |  | Armaments | Uncommon | Add Foil, Holographic, or Polychrome to a random card in your starting hand |  |
   |  | Grand Finale | Rare | Retrigger all Jokers if no cards remain in your deck |  |
 </details>
 
@@ -131,7 +131,7 @@ To-Do List:
 
 | Art | Joker | Rarity | Description | Credits |
   | :---: | :---: | :---: | :---: | :---: |
-  |  | Joja Cola | Common | Sell this Joker to create a random Tag |  |
+  |  | Joja Cola | Common | Sell this Joker to create a random Tag, tag changes at end of round (currently [Tag]) |  |
   |  | Grange Display | Uncommon | +12 mult for every scoring card with a unique suit |  |
   |  | Prismatic Shard | Rare | The first Joker in every shop is always Polychrome. Polychrome cards appear 10X more often |  |
 </details>
