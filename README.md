@@ -33,7 +33,7 @@ To-Do List:
 | Art | Joker | Rarity | Description | Credits |
   | :---: | :---: | :---: | :---: | :---: |
   |  | Impostor | Common | Sell this Joker to destroy all selected cards in hand |  |
-  |  | Shapeshifter | Uncommon | On round start, copies the ability of a random held Joker (changes every round) |  |
+  |  | Shapeshifter | Uncommon |Copies the ability of Joker to the left. 1 in 8 chance to destroy Joker instead |  |
   |  | Emergency Button | Rare | Sell this Joker to instantly win the Blind. If used on a Boss Blind, destroy a random Joker |  |
 </details>
 
@@ -119,7 +119,7 @@ To-Do List:
 
 | Art | Joker | Rarity | Description | Credits |
   | :---: | :---: | :---: | :---: | :---: |
-  |  | Claw | Common | This Joker gains +5 Mult for every hand played this round (resets every round) |  |
+  |  | Claw | Common | +3 Mult, gains +2 Mult at end of round |  |
   |  | Armaments | Uncommon | Add Foil, Holographic, or Polychrome to a random card in your starting hand |  |
   |  | Grand Finale | Rare | Retrigger all Jokers if no cards remain in your deck |  |
 </details>
