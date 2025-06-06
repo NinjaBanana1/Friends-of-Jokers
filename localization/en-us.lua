@@ -1,6 +1,26 @@
 return {
     descriptions = {
         Joker = {
+            --Dave The Diver
+             j_foj_norimaki = {
+                name = "Norimaki",
+                text = {
+                    "This {C:attention}Joker{} gives {C:gold}$#1#",
+                    "for every scoring card and decreases value",
+                    "by {C:gold}-$1{} for every ",
+                    "discard/nonscoring card",
+                    "{C:inactive}Bank: {C:gold}#2#"
+                }
+            },
+            j_foj_eco_gemstone_bracelet = {
+                name = "Eco Gemstone Bracelet",
+                text = {
+                    "This{C:attention}Joker{} gains {C:gold}+#1# Chips",
+                    "for {C:attention}Bonus Cards{} or {C:red}+#2# Mult",
+                    "for {C:attention}Mult Cards{} for played scoring cards"
+            }
+        },
+            --Witcher
             j_foj_witcher1 = {
                 name = "Keira Mietz",
                 text = {
