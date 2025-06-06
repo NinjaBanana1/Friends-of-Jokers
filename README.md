@@ -57,7 +57,7 @@ To-Do List:
 | Art | Joker | Rarity | Description | Credits |
   | :---: | :---: | :---: | :---: | :---: |
   |  | Norimaki | Common | Gain $1 for every scored card (max of $20). Decrease maximum by $1 for every nonscoring card and discarded card | Idea from Sbubby |
-  |  | Eco Gemstone Bracelet | Uncommon | This Joker gains +5 chips when a Bonus Card scores and +1 mult when a Mult Card scores | Idea from Sbubby |
+  |  | Eco Bracelet | Uncommon | This Joker gains +5 Chips when a Bonus Card scores and +1 Mult when a Mult Card scores | Idea from Sbubby |
   |  | Clownfish Sushi | Rare | The next 5 Jokers in the shop are Negative |  |
 </details>
 
@@ -71,7 +71,7 @@ To-Do List:
   | :---: | :---: | :---: | :---: | :---: |
   |  | Viktor Vektor | Common | Played cards have a 1 in 3 chance to gain a random enhancement when scored |  |
   |  | Headhunter | Uncommon | X3 mult if a card has been destroyed this round |  |
-  |  | Sandevistan Speedware | Rare | This Joker gains X1 mult for every consecutive non-Boss Blind skipped |  |
+  |  | Sandevistan | Rare | This Joker gains X1 mult for every consecutive non-Boss Blind skipped |  |
 </details>
 
 <details>
@@ -81,9 +81,9 @@ To-Do List:
 
 | Art | Joker | Rarity | Description | Credits |
   | :---: | :---: | :---: | :---: | :---: |
-  |  | Restock | Common | When purchasing a Booster Pack or Voucher, replenish it with another that costs more |  |
+  |  | Restock | Common | When purchasing a Booster Pack or Voucher, replenish it with another that costs twice as much |  |
   |  | Birthright | Uncommon | Gives a unique effect depending on which deck you are using (see below for list) |  |
-  |  | Binge Eater | Rare | First Joker in the shop is always a Food Joker. Gain X1 mult when a Food Joker expires |  |
+  |  | Binge Eater | Rare | This Joker gains X1 Mult when any Joker self-destructs |  |
 
   <details>
   <summary>Birthright effects</summary>
@@ -97,7 +97,7 @@ To-Do List:
   | Yellow Deck | Earn $10 at end of round |
   | Green Deck | Gain interest alongside money from Hands and Discards, redeem Seed Money and Money Tree vouchers | 
   | Black Deck | +2 hands, +1 Joker slot |
-  | Magic Deck | Create 1 The Emperor when Blind is selected |
+  | Magic Deck | Create a copy of The Emperor when Blind is selected |
   | Nebula Deck | +3 consumable slots | 
   | Ghost Deck | Create a random Spectral card when Blind is selected |
   | Abandoned Deck | Retrigger all played cards 1 time |
