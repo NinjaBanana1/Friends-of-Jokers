@@ -21,6 +21,13 @@ return {
                     "{C:inactive}Total:{C:blue}+#3#{} Chips, {C:red}+#4#{} Mult"
             }
         },
+        j_foj_clownfish_sushi = {
+                name = "Clownfish Sushi",
+                text = {
+                    "Any Joker in Shop becomes {C:dark_edition}Negative",
+                    "Uses: {c:attention}#1#"
+            }
+        },
             --Witcher
             j_foj_witcher1 = {
                 name = "Keira Mietz",
