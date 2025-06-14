@@ -87,3 +87,45 @@ SMODS.Joker {
      end
 }
 
+--Clownfish Sushi
+SMODS.Joker {
+    key = 'clownfish_sushi',
+    config = {
+        extra = {
+            uses = 5
+        }
+    },
+    atlas = 'joker',
+    pos = {
+        x = 0,
+        y = 0
+    }, 
+    rarity = 2,
+    cost = 6,
+    unlocked = true, 
+    discovered = true, 
+    blueprint_compat = true,
+    eternal_compat = true,
+    perishable_compat = true,
+    loc_vars = function(self, info_queue, card)
+      return {
+        vars = {
+          card.ability.extra.uses,
+        }
+      }
+    end,
+    calculate = function(self, card, context)
+      if context.type == "store_joker_create"  and  card.ability.extra.uses ~= 0 then
+        card.ability.extra.uses = card.ability.extra.uses - 1
+        G.E_MANAGER:add_event(Event({
+          func = function()
+          local card = create_card("Joker", context.area, nil, nil, nil, nil, 'j_')          
+          create_shop_card_ui(card, "Joker", context.area)
+          card.states.visible = false
+          card:start_materialize()
+          card:set_edition({negative = true})
+			  return true
+        end}))
+      end
+    end
+}

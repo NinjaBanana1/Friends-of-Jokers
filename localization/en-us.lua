@@ -15,9 +15,17 @@ return {
             j_foj_eco_gemstone_bracelet = {
                 name = "Eco Gemstone Bracelet",
                 text = {
-                    "This{C:attention}Joker{} gains {C:gold}+#1# Chips",
-                    "for {C:attention}Bonus Cards{} or {C:red}+#2# Mult",
-                    "for {C:attention}Mult Cards{} for played scoring cards"
+                    "This{C:attention}Joker{} gains {C:blue}+#1# {}Chips",
+                    "for {C:attention}Bonus Cards{} or {C:red}+#2# {}Mult",
+                    "for {C:attention}Mult Cards{} for played scoring cards",
+                    "{C:inactive}Total:{C:blue}+#3#{} Chips, {C:red}+#4#{} Mult"
+            }
+        },
+        j_foj_clownfish_sushi = {
+                name = "Clownfish Sushi",
+                text = {
+                    "Any Joker in Shop becomes {C:dark_edition}Negative",
+                    "Uses: {c:attention}#1#"
             }
         },
             --Witcher
