@@ -2,7 +2,7 @@
 --FOJ.config = FOJ.current_mod.config
 
 FOJ.JOKER_SET_1_2 = {
-  --  "AmongUs",
+    "AmongUs",
   --  "Cyberpunk2077",
     "DaveTheDiver",
   --  "SlayTheSpire",

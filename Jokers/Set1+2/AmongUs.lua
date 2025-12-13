@@ -1,7 +1,7 @@
 --Impostor
 SMODS.Joker {
     key = "amongus1",
-    atlas = "Placeholders"
+    atlas = "Placeholders",
     pos = { x = 0, y = 0 },
     unlocked = true,
     discovered = true,
@@ -21,6 +21,7 @@ SMODS.Joker {
                 func = function()
                     SMODS.destroy_cards(G.hand.highlighted)
                     return true
+                end
             }))
         end
     end
