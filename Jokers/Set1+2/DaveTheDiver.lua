@@ -1,4 +1,8 @@
 --Norimaki
+-- Works, but could use improvements
+-- no delay between scoring and giving cash
+-- no indicator on the card when it activates in any case
+-- doesn't reduce bank for nonscoring cards (banana)
 SMODS.Joker {
     key = 'norimaki',
     config = {
@@ -7,7 +11,7 @@ SMODS.Joker {
             bank = 20,
         }
     },
-    atlas = 'joker',
+    atlas = 'Placeholders',
     pos = {
         x = 0,
         y = 0
@@ -39,6 +43,7 @@ SMODS.Joker {
 }
 
 --Eco Gemstone Bracelet
+--NEEDS FIXING, WILL CRASH GAME IF USED (banana)
 SMODS.Joker {
     key = 'eco_gemstone_bracelet',
     config = {
@@ -49,9 +54,9 @@ SMODS.Joker {
             mult_total = 0
         }
     },
-    atlas = 'joker',
+    atlas = 'Placeholders',
     pos = {
-        x = 0,
+        x = 1,
         y = 0
     }, 
     rarity = 2,
@@ -88,6 +93,7 @@ SMODS.Joker {
 }
 
 --Clownfish Sushi
+-- Doesn't seem to function? (banana)
 SMODS.Joker {
     key = 'clownfish_sushi',
     config = {
@@ -95,9 +101,9 @@ SMODS.Joker {
             uses = 5
         }
     },
-    atlas = 'joker',
+    atlas = 'Placeholders',
     pos = {
-        x = 0,
+        x = 2,
         y = 0
     }, 
     rarity = 2,

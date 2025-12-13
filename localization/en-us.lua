@@ -7,7 +7,7 @@ return {
                 text = {
                     "This {C:attention}Joker{} gives {C:gold}$#1#",
                     "for every scoring card and decreases value",
-                    "by {C:gold}-$1{} for every ",
+                    "by {C:gold}$1{} for every ",
                     "discard/nonscoring card",
                     "{C:inactive}Bank: {C:gold}#2#"
                 }
@@ -15,10 +15,10 @@ return {
             j_foj_eco_gemstone_bracelet = {
                 name = "Eco Gemstone Bracelet",
                 text = {
-                    "This{C:attention}Joker{} gains {C:blue}+#1# {}Chips",
-                    "for {C:attention}Bonus Cards{} or {C:red}+#2# {}Mult",
-                    "for {C:attention}Mult Cards{} for played scoring cards",
-                    "{C:inactive}Total:{C:blue}+#3#{} Chips, {C:red}+#4#{} Mult"
+                    "This {C:attention}Joker{} gains {C:blue}+#1# {}Chips",
+                    "when a {C:attention}Bonus Card{} scores and {C:red}+#2# {}Mult",
+                    "when a {C:attention}Mult Card{} scores",
+                    "{C:inactive}(Currently {C:blue}+#3#{C:inactive} Chips and {C:red}+#4#{C:inactive} Mult)"
             }
         },
         j_foj_clownfish_sushi = {
@@ -32,7 +32,7 @@ return {
             j_foj_witcher1 = {
                 name = "Keira Mietz",
                 text = {
-                    "{C:attention}#1#{} Consumable Slot,",
+                    "{C:attention}-#1#{} Consumable Slot,",
                     "creates a copy of {C:attention}The Fool{}",
                     "when Blind is selected",
                     "{C:inactive}(Must have room)"
@@ -52,6 +52,13 @@ return {
                     "and gain {C:chips}+#1#{} Chips",
                     "for every {C:money}$1{} removed",
                     "{C:inactive}(Currently {C:chips}+#2#{C:inactive} chips)"
+                }
+        },
+            --Among Us
+            j_foj_amongus1 = {
+                name = "Impostor",
+                text = {
+                    "Sell this card to destroy all selected cards"
                 }
             },
         }
