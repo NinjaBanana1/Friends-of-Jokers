@@ -8,6 +8,7 @@ return {
                     "This {C:attention}Joker{} gives {C:gold}$#1#",
                     "for every scoring card and decreases value",
                     "by {C:gold}$1{} for every ",
+                    "by {C:gold}$1{} for every ",
                     "discard/nonscoring card",
                     "{C:inactive}Bank: {C:gold}#2#"
                 }
@@ -32,6 +33,7 @@ return {
             j_foj_witcher1 = {
                 name = "Keira Mietz",
                 text = {
+                    "{C:attention}-#1#{} Consumable Slot,",
                     "{C:attention}-#1#{} Consumable Slot,",
                     "creates a copy of {C:attention}The Fool{}",
                     "when Blind is selected",
