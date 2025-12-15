@@ -63,6 +63,12 @@ return {
                     "Sell this card to destroy all selected cards"
                 }
             },
+             j_foj_amongus3 = {
+                name = "Emergency Button",
+                text = {
+                    "Sell this card to immediately win the Blind"
+                }
+            },
         }
     },
     misc = {
