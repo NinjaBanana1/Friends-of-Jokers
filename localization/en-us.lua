@@ -63,6 +63,15 @@ return {
                     "Sell this card to destroy all selected cards"
                 }
             },
+            j_foj_amongus2 = {
+                name = "Shapeshifter",
+                text = {
+                    "Copies ability of",
+                    "{C:attention}Joker{} to the left",
+                    "{C:green}#1# in #2#{} chance to",
+                    "destroy Joker instead"
+                }
+            },
              j_foj_amongus3 = {
                 name = "Emergency Button",
                 text = {
