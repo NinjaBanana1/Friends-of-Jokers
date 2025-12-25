@@ -2,7 +2,7 @@ return {
     descriptions = {
         Joker = {
             --Dave The Diver
-             j_foj_norimaki = {
+            j_foj_norimaki = {
                 name = "Norimaki",
                 text = {
                     "This {C:attention}Joker{} gives {C:gold}$#1#",
@@ -20,14 +20,14 @@ return {
                     "when a {C:attention}Bonus Card{} scores and {C:red}+#2# {}Mult",
                     "when a {C:attention}Mult Card{} scores",
                     "{C:inactive}(Currently {C:blue}+#3#{C:inactive} Chips and {C:red}+#4#{C:inactive} Mult)"
-            }
-        },
-        j_foj_clownfish_sushi = {
+                }
+            },
+            j_foj_clownfish_sushi = {
                 name = "Clownfish Sushi",
                 text = {
                     "Any Joker in Shop becomes {C:dark_edition}Negative",
                     "Uses: {c:attention}#1#"
-            }
+                }
         },
             --Witcher
             j_foj_witcher1 = {
@@ -77,7 +77,42 @@ return {
                 text = {
                     "Sell this card to immediately win the Blind"
                 }
+        },
+            --Cyberpunk 2077
+            j_foj_cyberpunk3 = {
+                name = "Sandevistan",
+                text = {
+                    "This Joker gains {X:mult,C:white}X#1#{} Mult",
+                    "when a Blind is {C:attention}skipped{}, resets",
+                    "when {C:attention}Boss Blind{} is defeated",
+                    "{C:inactive}(Currently {X:mult,C:white} X#2# {C:inactive} Mult)",
+                },
+        },
+            --[[TEMPLATE
+            j_foj_template1 = {
+                name = "TEMPLATE",
+                text = {
+                    "TEMPLATE",
+                    "TEMPLATE",
+                    "TEMPLATE"
+                }
             },
+            j_foj_template2 = {
+                name = "TEMPLATE",
+                text = {
+                    "TEMPLATE",
+                    "TEMPLATE",
+                    "TEMPLATE"
+                }
+            },
+            j_foj_template3 = {
+                name = "TEMPLATE",
+                text = {
+                    "TEMPLATE",
+                    "TEMPLATE",
+                    "TEMPLATE"
+                }
+        }, --]]
         }
     },
     misc = {
