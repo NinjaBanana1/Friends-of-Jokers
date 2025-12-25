@@ -79,6 +79,15 @@ return {
                 }
         },
             --Cyberpunk 2077
+            j_foj_cyberpunk2 = {
+                name = "Headhunter",
+                text = {
+                    "{X:mult,C:white}X#2#{} Mult if a playing",
+                    "card was {C:attention}destroyed{}",
+                    "during a Blind",
+                    "{C:inactive}(Currently {X:mult,C:white} X#1# {C:inactive} Mult)",
+                },
+            },
             j_foj_cyberpunk3 = {
                 name = "Sandevistan",
                 text = {
