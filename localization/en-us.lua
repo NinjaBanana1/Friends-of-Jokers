@@ -13,13 +13,13 @@ return {
                     "{C:inactive}Bank: {C:gold}#2#"
                 }
             },
-            j_foj_eco_gemstone_bracelet = {
-                name = "Eco Gemstone Bracelet",
+            j_foj_davethediver2 = {
+                name = "Eco Bracelet",
                 text = {
-                    "This {C:attention}Joker{} gains {C:blue}+#1# {}Chips",
-                    "when a {C:attention}Bonus Card{} scores and {C:red}+#2# {}Mult",
+                    "This Joker gains {C:blue}+#1# {}Chips",
+                    "when a {C:attention}Bonus Card{} scores and {C:red}+#3# {}Mult",
                     "when a {C:attention}Mult Card{} scores",
-                    "{C:inactive}(Currently {C:blue}+#3#{C:inactive} Chips and {C:red}+#4#{C:inactive} Mult)"
+                    "{C:inactive}(Currently {C:blue}+#2#{C:inactive} Chips and {C:red}+#4#{C:inactive} Mult)"
                 }
             },
             j_foj_clownfish_sushi = {

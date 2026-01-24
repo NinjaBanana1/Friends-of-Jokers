@@ -4,7 +4,7 @@
 FOJ.JOKER_SET_1_2 = {
     "AmongUs",
     "Cyberpunk2077",
-  --  "DaveTheDiver",
+    "DaveTheDiver",
   --  "SlayTheSpire",
   --  "StardewValley",
   -- "TheBindingOfIsaac",
